@@ -196,7 +196,7 @@ Las consultas principales se encuentran en la carpeta [sql/](sql/):
 
 El dashboard final fue desarrollado en Google Sheets e incluye KPIs, evolución semanal, funnel, adquisición, dispositivos y análisis de productos.
 
-![E-commerce Marketing Analytics Dashboard](dashboard/ecommerce_marketing_dashboard.png)
+![E-commerce Marketing Analytics Dashboard](dashboard/ecommerce_marketing_dashboard.PNG)
 
 ---
 
